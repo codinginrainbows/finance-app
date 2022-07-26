@@ -20,7 +20,7 @@ Financial application built aiming a efficient management of user's expenses and
 
 ## :hammer: Features
 
-- [x] `Theme Switcher`: Dark Mode implemented via Context API.
+- [x] `Theme Switcher`: Dark Mode implemented via Context.
 - [x] `New Transaction`: Button New Transaction opens modal.
 - [x] `Modal`: Modal data adds a transaction to the main table.
 - [x] `Summary`: Summary makes a balance out of the values on the table.
